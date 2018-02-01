@@ -27,7 +27,7 @@ Pod::Spec.new do |s|
 
   s.source       = { :git => "https://github.com/goodnighthsu/LXSqlite.git", :tag => "v0.1.0" }
 
-  s.source_files = 'LXSqlite/Classes', 'LXSqlite/Classes/**/*.{h,m}'
+  s.source_files = 'LXSqlite/Classes', 'LXSqlite/Class/**/*.{h,m}'
   s.requires_arc = true
   s.resource_bundle = {'LXSqlite' => 'LXSqlite/Resource/*.lproj'}
 
