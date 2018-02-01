@@ -17,10 +17,7 @@ Pod::Spec.new do |s|
 
   s.name         = "LXSqlite"
   s.version      = "0.1.0"
-  s.summary      = "Sqlite"
-
-  s.description  = <<-DESC
-                   A longer description of LXSqlite in Markdown format.
+  s.summary      = "LX Sqlite"
          
   s.homepage     = "https://github.com/goodnighthsu/LXSqlite.git"
 

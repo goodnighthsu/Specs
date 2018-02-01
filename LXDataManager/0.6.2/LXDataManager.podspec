@@ -18,7 +18,7 @@ Pod::Spec.new do |s|
   s.name         = "LXDataManager"
   s.version      = "0.6.2"
   s.summary      = "结合ASIHttpRequest和MBProgress
-
+/Users/leon/Documents/Specs/LXDataManager/0.6.2/LXDataManager.podspec
   s.description  = <<-DESC
                    A longer description of LXDataManager in Markdown format.
 
